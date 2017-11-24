@@ -1,0 +1,2 @@
+# UdemyMinimalisticBlog
+Minimalistic blog challenge
